@@ -24,7 +24,7 @@ footer {
 }
 
 .portfolio-item-image {
-    max-width: 100%;
+    max-width: 50%;
     flex: 0 1 auto;
 }
 
